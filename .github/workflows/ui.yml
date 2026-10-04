@@ -10,6 +10,7 @@ on:
   push:
     branches:
       - master
+      - kolibri
     paths: [
       '.github/workflows/ui.yml',
       '.github/workflows/ui-build.yml',
